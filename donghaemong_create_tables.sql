@@ -87,3 +87,26 @@ INSERT INTO Mbti VALUES (15, false, false, false, true);
 INSERT INTO Mbti VALUES (16, false, false, false, false);
 
 
+INSERT INTO Stations VALUES (1, "부전", 3, 3);
+INSERT INTO Stations VALUES (2, "거제해맞이", 17, 8);
+INSERT INTO Stations VALUES (3, "거제", 10, 5);
+INSERT INTO Stations VALUES (4, "교대", 2, 1);
+INSERT INTO Stations VALUES (5, "동래", 15, 8);
+INSERT INTO Stations VALUES (6, "안락", 12, 7);
+INSERT INTO Stations VALUES (7, "부산원동", 11, 7);
+INSERT INTO Stations VALUES (8, "재송", 14, 8);
+INSERT INTO Stations VALUES (9, "센텀", 9, 5);
+INSERT INTO Stations VALUES (10, "벡스코", 1, 1);
+INSERT INTO Stations VALUES (11, "신해운대", 7, 5);
+INSERT INTO Stations VALUES (12, "송정", 13, 7);
+INSERT INTO Stations VALUES (13, "오시리아", 8, 5);
+INSERT INTO Stations VALUES (14, "기장", 5, 3);
+INSERT INTO Stations VALUES (15, "일광", 6, 5);
+INSERT INTO Stations VALUES (16, "좌천", 16, 8);
+INSERT INTO Stations VALUES (17, "월내", 19, 10);
+INSERT INTO Stations VALUES (18, "서생", 20, 10);
+INSERT INTO Stations VALUES (19, "남창", 18, 8);
+INSERT INTO Stations VALUES (20, "망양", 22, 10);
+INSERT INTO Stations VALUES (21, "덕하", 21, 10);
+INSERT INTO Stations VALUES (22, "개운포", 23, 10);
+INSERT INTO Stations VALUES (23, "태화강", 4, 3);
